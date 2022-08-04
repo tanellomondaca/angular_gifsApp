@@ -16,4 +16,5 @@ export class ResultadosComponent implements OnInit {
   ngOnInit(): void {
   }
 
+
 }
